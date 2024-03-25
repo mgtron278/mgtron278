@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any entry level roles
 - 📫 How to reach me, linkedin: surya_guttikonda
 - 😄 Pronouns: He/HIM
-- ⚡ Fun fact: Gonna look back at this once I get a job..
+
 
 <!---
 mgtron278/mgtron278 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
