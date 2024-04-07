@@ -12,8 +12,6 @@
 
 🛠️ Check out my projects on [GitHub](https://github.com/mgtron278) to see what I've been working on!
 
-This will invite visitors to click through and explore your repositories directly. Feel free to tweak the wording to match your personal style!
-
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/surya-guttikonda/)!
 
 😄 Pronouns: He/Him
