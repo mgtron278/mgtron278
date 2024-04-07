@@ -10,7 +10,7 @@
 
 💼 I’m actively seeking opportunities to collaborate on mid-senior level and entry level roles in the fields of AI and Machine Learning.
 
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/surya_guttikonda)!
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/surya-guttikonda/)!
 
 😄 Pronouns: He/Him
 
