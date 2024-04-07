@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @mgtron278
-- 👀 I’m interested in Machine Learning, Deep learning, NLP and still figuring it out.....
-- 🌱 I’m currently learning eveyrthing I mentioned above
-- 💞️ I’m looking to collaborate on any mid-senior level and entry level roles
-- 📫 How to reach me, linkedin: surya_guttikonda
-- 😄 Pronouns: He/HIM
+
+
+---
+
+👋 Hi, I’m Surya Guttikonda (@mgtron278)!
+
+👀 I’m interested in Machine Learning, Deep Learning, NLP, and continuously exploring new frontiers in AI.
+
+🌱 I’m currently immersed in learning everything I mentioned above and beyond.
+
+💼 I’m actively seeking opportunities to collaborate on mid-senior level and entry level roles in the fields of AI and Machine Learning.
+
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/surya_guttikonda)!
+
+😄 Pronouns: He/Him
+
+---
+
 
 
 <!---
