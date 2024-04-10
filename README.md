@@ -12,7 +12,6 @@
 
 🛠️ Check out my projects on [GitHub](https://github.com/mgtron278) to see what I've been working on!
 
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/surya-guttikonda/)!
 
 😄 Pronouns: He/Him
 
