@@ -1,5 +1,4 @@
 
-
 👋 Hi, I’m Surya Guttikonda (@mgtron278)!
 
 👀 I’m interested in Machine Learning, Deep Learning, NLP, and continuously exploring new frontiers in AI.
