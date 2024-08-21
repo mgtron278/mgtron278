@@ -5,7 +5,7 @@
 
 🌱 I’m currently immersed in learning everything I mentioned above and beyond.
 
-💼 I’m actively seeking opportunities to collaborate on mid-senior level and entry level roles in the fields of AI and Machine Learning.
+💼 I’m actively seeking opportunities to collaborate on senior level roles in the fields of GenAI and Machine Learning.
 
 🛠️ Check out my projects on [GitHub](https://github.com/mgtron278) to see what I've been working on!
 
