@@ -7,7 +7,7 @@
 
 ### 📊 Data Science & Machine Learning 
 <p align="center">
-  <img src="[path_to_ml_gif.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40p._.%2Fneural-nets-299072b6e45f&psig=AOvVaw3vFidv2RYkJuTRMDvYNZQa&ust=1731680201721000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCKj12M-B3IkDFQAAAAAdAAAAABAE)" alt="Machine Learning" width="80"/>
+  <img src= https://images.app.goo.gl/9L5Amm4Ma6ZBj9ad6 alt="Machine Learning" width="80"/>
   <img src="path_to_ds_gif.gif" alt="Data Science" width="80"/>
   <img src="path_to_nlp_gif.gif" alt="Natural Language Processing" width="80"/>
 </p>
