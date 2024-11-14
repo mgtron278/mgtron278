@@ -1,11 +1,95 @@
-<h1 align="center">Hi 👋, I'm Naga Sai Surya</h1>
-<h3 align="center">An aspiring ML Data Scientist(I know its confusing...ML?? Data Science??)</h3>
+# 👋 Hi, I'm [Your Name] 👋  
+🌐 **Data Scientist | Machine Learning Engineer | NLP & Computer Vision Enthusiast**  
 
-- 📫 How to reach me **guttikonda278@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🛠️ Skills & Technologies 
+
+### 📊 Data Science & Machine Learning 
+<p align="center">
+  <img src="path_to_ml_gif.gif" alt="Machine Learning" width="80"/>
+  <img src="path_to_ds_gif.gif" alt="Data Science" width="80"/>
+  <img src="path_to_nlp_gif.gif" alt="Natural Language Processing" width="80"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Key Skills:**  
+- Machine Learning Algorithms (Regression, Classification, Clustering)  
+- Deep Learning (CNNs, LSTMs, RNNs)  
+- Statistical Modeling  
+- A/B Testing and Experimental Design  
+- Forecasting with Time Series Analysis  
+
+---
+
+### 📈 Tools & Libraries  
+<p align="center">
+  <img src="path_to_pytorch_gif.gif" alt="PyTorch" width="80"/>
+  <img src="path_to_tensorflow_gif.gif" alt="TensorFlow" width="80"/>
+  <img src="path_to_sklearn_gif.gif" alt="Scikit-Learn" width="80"/>
+  <img src="path_to_pandas_gif.gif" alt="Pandas" width="80"/>
+  <img src="path_to_numpy_gif.gif" alt="NumPy" width="80"/>
+</p>
+
+**Technologies I Use:**  
+- **PyTorch & TensorFlow** for model development  
+- **Scikit-Learn, Pandas, NumPy** for data manipulation and analysis  
+- **XGBoost & LightGBM** for model tuning  
+- **ARIMA** for time-series forecasting  
+
+---
+
+### 🗄️ Databases & Big Data  
+<p align="center">
+  <img src="path_to_sql_gif.gif" alt="SQL" width="80"/>
+  <img src="path_to_postgresql_gif.gif" alt="PostgreSQL" width="80"/>
+  <img src="path_to_neo4j_gif.gif" alt="Neo4j" width="80"/>
+</p>
+
+**Experience with:**  
+- Relational Databases (PostgreSQL, MySQL)  
+- Graph Databases (Neo4j)  
+- Query Optimization  
+
+---
+
+### 🖼️ Visualization & Analytics  
+<p align="center">
+  <img src="path_to_tableau_gif.gif" alt="Tableau" width="80"/>
+  <img src="path_to_powerbi_gif.gif" alt="Power BI" width="80"/>
+  <img src="path_to_matplotlib_gif.gif" alt="Matplotlib" width="80"/>
+</p>
+
+**Favorite Tools:**  
+- **Tableau** and **Power BI** for interactive dashboards  
+- **Matplotlib, Seaborn** for data visualization in Python  
+
+---
+
+### ☁️ Cloud Platforms & Deployment  
+<p align="center">
+  <img src="path_to_aws_gif.gif" alt="AWS" width="80"/>
+  <img src="path_to_azure_gif.gif" alt="Azure" width="80"/>
+  <img src="path_to_docker_gif.gif" alt="Docker" width="80"/>
+</p>
+
+**Experience with:**  
+- **AWS & Azure** for cloud deployments  
+- **Docker** and **Kubernetes** for containerization  
+
+---
+
+### 🧩 More Skills  
+<p align="center">
+  <img src="path_to_git_gif.gif" alt="Git" width="80"/>
+  <img src="path_to_jupyter_gif.gif" alt="Jupyter" width="80"/>
+  <img src="path_to_vscode_gif.gif" alt="VSCode" width="80"/>
+</p>
+
+**Tools I Use Regularly:**  
+- **Git & GitHub** for version control  
+- **Jupyter Notebook & VSCode** for development  
+
+---
+
+## 👨‍💻 About Me
+- 🎓 Master's in Data Science, University at Buffalo  
