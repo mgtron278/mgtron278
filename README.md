@@ -3,14 +3,14 @@
 
 ---
 
-## 🛠️ Skills & Technologies 
 
-### 📊 Data Science & Machine Learning 
-<p align="center">
-  <img src= "https://user-images.githubusercontent.com/12392345/217462050-bc4d553b-d0ca-48ee-b12c-06eb79b8290b.gif" alt="Machine Learning" width="80"/>
-  <img src="path_to_ds_gif.gif" alt="Data Science" width="80"/>
-  <img src="path_to_nlp_gif.gif" alt="Natural Language Processing" width="80"/>
-</p>
+
+## 🛠 Skills
+
+| Machine Learning | Data Science | Generative AI |
+|:----------------:|:-------------------:|:------------------:|
+| [![ML](https://user-images.githubusercontent.com/12392345/217462050-bc4d553b-d0ca-48ee-b12c-06eb79b8290b.gif)](https://github.com/hemangjoshi37a/TelegramTradeMsgBacktestML) | [![Data Science](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXllbWNoN3VmM2N6Z3h3YXN1azdvb2J6bTFoYWo5ZHVvdXlqbGk2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYc2axjCJNsCXyE/giphy.gif )| [![Generative AI](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pmMDcwdTd2ZXYzcms5czI2YTFrMzR0Mjl6ZWRrbHN3dGtnaGRmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7VzgMsB6FLCilwS30v/giphy-downsized-large.gif) |
+
 
 **Key Skills:**  
 - Machine Learning Algorithms (Regression, Classification, Clustering)  
