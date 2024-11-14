@@ -7,7 +7,7 @@
 
 ### 📊 Data Science & Machine Learning 
 <p align="center">
-  <img src= https://images.app.goo.gl/9L5Amm4Ma6ZBj9ad6 alt="Machine Learning" width="80"/>
+  <img src= "https://images.app.goo.gl/9L5Amm4Ma6ZBj9ad6" alt="Machine Learning" width="80"/>
   <img src="path_to_ds_gif.gif" alt="Data Science" width="80"/>
   <img src="path_to_nlp_gif.gif" alt="Natural Language Processing" width="80"/>
 </p>
